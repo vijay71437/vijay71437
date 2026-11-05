@@ -51,18 +51,10 @@ A project for exploring AI application development with the Spring ecosystem.
 
 ---
 
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijay71437&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijay71437&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🤝 Connect
 
 - GitHub: [@vijay71437](https://github.com/vijay71437)
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: [@vijaykumar](https://www.linkedin.com/in/vijaykumar-mali-021385247/)
 
 ---
 
